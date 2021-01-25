@@ -1,4 +1,4 @@
-# Hwanghoe_Lee_Project1
+# Lee_Hwanghoe_Project1
 
 To demonstrate the ability to properly set up a folder and include the necessary javascript file and CSS reset
 
